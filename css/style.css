@@ -5,9 +5,6 @@ body{
   margin: 0 auto;
   background-image: url(Preview3.png);
 }
-.colonthree{
-
-}
 a{
   color: white;
 }
@@ -31,7 +28,7 @@ color: rgb(194, 55, 194);
 }
 .mainbody{
   padding-top: 4cm;
-  font-family: love_letter_typewriterregular;
+  font-family: 'love_letter_typewriterregular', Arial, sans-serif;
   color: white;
   font-size: 20px;
   font-weight: bold;
